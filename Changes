@@ -1,0 +1,8 @@
+Revision history for Perl extension OS2::Attrib.
+
+0.002  Oct 17 1996
+	- renamed functions to match Perl style guide
+	- first public beta release
+
+0.001  Oct 16 1996
+	- original version; created by h2xs 1.16
